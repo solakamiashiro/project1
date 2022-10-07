@@ -1,4 +1,5 @@
-![ironhack](logan.png)
+![Meu projeto](https://user-images.githubusercontent.com/80415535/194645324-734f511c-04dc-4cfd-bc22-e656f3d1c3dd.png)
+
 
 
 
@@ -21,7 +22,6 @@ Neste primeiro projeto sobre Ataque dos Tubarões, é aplicarmos técnicas de li
 ## Análise
 
   
-
 
 
 
