@@ -19,7 +19,59 @@ Neste primeiro projeto sobre Ataque dos Tubarões, é aplicarmos técnicas de li
 3.E qual tipo de atividades que houve mais ataques?
 
 
-## Análise
+## Pré Requisito
+
+1. Python
+
+2. Jupyter Notebook
+
+3. Pandas
+
+
+## Conclusão
+
+O país com mais ataque dos tubarões é o Estados Unidos 
+
+
+1. USA         -        2229
+
+2. Australia   -        1338
+
+3. South Africa   -      579
+
+
+E a área mais atingida foi na Florida
+
+1. Florida       -    1038
+
+2. Hawaii    -         298
+
+3. California   -      290
+
+
+
+Onde houve mais casos fatais foi na Australia
+
+	
+1.	Australia -	283
+2.	USA -186
+3. South Africa	- 106
+
+O tipo de atividade com mais ataque foi o Surfing
+
+Surfing       -    971
+
+Swimming      -    869
+
+Fishing       -    431
+
+
+
+Obs: Os humanos não estão no cardápio dos tubarões. Os tubarões mordem os humanos por curiosidade ou para se defender.
+
+
+
+
 
   
 
